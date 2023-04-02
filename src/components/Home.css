@@ -1,0 +1,11 @@
+.Home {
+  align-items: center;
+  display: flex;
+  flex-direction:row;
+  flex-grow: 10;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+
